@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #16a085;
+  font-family: sans-serif;
+  color: white;
+}
+
+.intro-text {
+  height: 100dvh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro-text h1 {
+  font-size: 3rem;
+  width: 25ch;
+  text-align: center;
+}

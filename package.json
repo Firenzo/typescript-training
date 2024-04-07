@@ -1,0 +1,13 @@
+{
+  "name": "typescript-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hiring-system": "node ./dist/01-hiring-system/hiring-system.js",
+    "custom-enum": "node ./dist/02-custom-enum/custom-enum.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
