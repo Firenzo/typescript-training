@@ -8,5 +8,5 @@ const candidate2 = {
   name: "Mary",
   age: 34,
   city: "Utrecht",
-  certifcates: ["Accessibility", "Contentstack", "Gitlab"],
+  certificates: ["Accessibility", "Contentstack", "Gitlab"],
 };
